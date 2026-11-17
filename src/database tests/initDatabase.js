@@ -1,4 +1,4 @@
-const pool = require('./connection');
+const pool = require('./Connection');
 
 const CRIAR_TABELA_CONSULTORES = `
   CREATE TABLE IF NOT EXISTS consultores (
