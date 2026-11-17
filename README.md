@@ -28,7 +28,7 @@ Node.js · Express · MySQL · Docker · Jest · Supertest
 
    ```
    Banco de dados conectado e tabelas prontas.
-   ConsulTech rodando na porta 3000
+   Consultiva rodando na porta 3000
    ```
 
    > Mensagens como "Banco indisponível (tentativa 1/10)" são normais: a API aguarda o MySQL terminar de iniciar.
